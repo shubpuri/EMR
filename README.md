@@ -1,4 +1,4 @@
-# Electronic Medical Records [Anaconda Python and MS Excel]
+# Electronic Medical Records [R Studio and MS Excel]
 OBJECTIVE:
 To classifY what kind of patients access the EMR (Electronic Medical Records) portal using a real-life dataset from a health care survey.
 
